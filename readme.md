@@ -3,6 +3,7 @@
 ## Description
 
 This Python script takes a kpopchords.com HTML link, extracts the lyrics and chords, and formats it to an output.txt. 
+I haven't extensively tested it. I created it to use for specific pages that don't allow me to copy and paste.
 
 ## Dependencies
 
